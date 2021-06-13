@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylermsa
 - 👀 I’m interested in ... Creating Open-Source Projects, Software Development, Animation, Game/ App Design
-- 🌱 I’m currently learning ... Python, Java, Git
+- 🌱 I’m currently learning ... Python, Java, Git, HTML, C++
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me ... You don't reach me, I reach you
 
